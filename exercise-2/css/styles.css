@@ -34,5 +34,14 @@ i {
 }
 
 .search-icon{
-  font-family: FontAwesome;
+  font-family: FontAwesome,Quicksand, sans-serif;
+   opacity: 0.45;
+}
+
+.table>tbody>tr>td:nth-child(2) {
+  color:#44a5f7; 
+}
+
+th {
+  font-weight: light;
 }
