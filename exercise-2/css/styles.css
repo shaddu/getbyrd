@@ -30,7 +30,7 @@ i {
 
 .match-byrd {
   color : #a09e9e;
-  font-weight: bold;
+  font-weight: 400;
 }
 
 .search-icon{
@@ -42,6 +42,6 @@ i {
   color:#44a5f7; 
 }
 
-th {
-  font-weight: light;
+.table>thead>tr>th {
+  font-weight: 400;
 }
