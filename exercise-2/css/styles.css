@@ -1,5 +1,10 @@
 body{
 font-family: 'Quicksand', sans-serif;
+font-weight: 300;
+}
+
+h3 {
+  font-weight: 300;
 }
 
 .navbar-static-top {
@@ -17,10 +22,10 @@ i {
 }
 
 .nav > li > a:hover {
-  border-left: 3px solid #44a5f7;
+  border-left: 4px solid #44a5f7;
   font-weight: bold;
   background-color: white;
-  padding: 5px 12px;
+  padding: 5px 11px;
   
 }
 
@@ -43,5 +48,5 @@ i {
 }
 
 .table>thead>tr>th {
-  font-weight: 400;
+  font-weight: 300;
 }
