@@ -13,8 +13,22 @@ i {
 .nav > li > a {
   color:#787878;
   padding: 5px 15px;
+  
 }
 
 .nav > li > a:hover {
-  border-left: 3px solid #e99d1a;
+  border-left: 3px solid #44a5f7;
+  font-weight: bold;
+  background-color: white;
+  padding: 5px 12px;
+  
+}
+
+.left-padding {
+  padding-left: 15px;
+}
+
+.match-byrd {
+  color : #a09e9e;
+  font-weight: bold;
 }
